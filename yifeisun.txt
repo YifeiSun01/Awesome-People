@@ -1,0 +1,9 @@
+One random awesome fact here:
+
+According to the U.S. Department of Agriculture, if you pick an apple off a tree, it'll last a few weeks before it starts to soften and rot. But if you store an entire harvest under "controlled-atmosphere conditions," it'll last up to 10 months.
+
+So, when you buy fruit at the grocery store, the produce may not be as fresh as you expect. "Apples are harvested once a year in the U.S.," says Alisha Albinder, a fourth-generation fruit grower. "If you're eating a New York apple not in the fall, then it's safe to say that it's been in storage."
+
+This awesome fact has nothing to do with myself, but I just think this is awesome.
+
+Maybe I should name this file apple.txt. But I have already named this file yifeisun.txt, I don't want to change the name.
